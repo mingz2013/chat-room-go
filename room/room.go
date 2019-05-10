@@ -1,7 +1,7 @@
 package room
 
 import (
-	"github.com/mingz2013/game-micro-server-go/internal/pkg/msg"
+	"github.com/mingz2013/game-table-go/msg"
 	"log"
 	"time"
 )

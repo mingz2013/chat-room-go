@@ -1,10 +1,10 @@
 package chat_room_go
 
 import (
-	"github.com/mingz2013/game-micro-server-go/internal/pkg/base"
-	"github.com/mingz2013/game-micro-server-go/internal/pkg/msg"
-	"github.com/mingz2013/game-micro-server-go/internal/pkg/robot-manager"
-	"github.com/mingz2013/game-micro-server-go/internal/pkg/table-manager"
+	"github.com/mingz2013/game-table-go/base"
+	"github.com/mingz2013/game-table-go/msg"
+	"github.com/mingz2013/game-table-go/robot-manager"
+	"github.com/mingz2013/game-table-go/table-manager"
 	"sync"
 )
 
