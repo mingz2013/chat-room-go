@@ -1,10 +1,10 @@
 package chat_room_go
 
 import (
-	"github.com/mingz2013/game-table-go/base"
-	"github.com/mingz2013/game-table-go/msg"
-	"github.com/mingz2013/game-table-go/robot-manager"
-	"github.com/mingz2013/game-table-go/table-manager"
+	"chat-room-go/base"
+	"chat-room-go/msg"
+	"chat-room-go/robot-manager"
+	"chat-room-go/table-manager"
 	"sync"
 )
 

@@ -1,7 +1,7 @@
 package robot
 
 import (
-	"github.com/mingz2013/game-table-go/msg"
+	"chat-room-go/msg"
 	"log"
 	"time"
 )
